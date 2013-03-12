@@ -1,7 +1,7 @@
 Normas
 
 
-Normativa de Seguridad ISO/IEC 17799:
+Normativa de Seguridad ISO/IEC 17799: 270001
  
 (Código de buenas prácticas, parael manejo de seguridad de la información) Estándar o normainternacional que vela por que se cumplan los requisitos mínimos deseguridad, que propicien un nivel de seguridad aceptable y acorde a losobjetivos institucionales desarrollando buenas prácticas para la gestiónde la seguridad informática.
 
@@ -20,3 +20,6 @@ Real Decreto 994/1999
 
 Reglamento, COBIT y UNE-ISO/IEC 17799
 
+LEY 27269 : Ley de Firmas y Certificados Digitales
+
+LEY 29733 : Ley de Protección de Datos Personales
