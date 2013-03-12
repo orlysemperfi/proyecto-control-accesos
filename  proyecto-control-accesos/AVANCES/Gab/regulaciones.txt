@@ -36,3 +36,5 @@ IFAC (NIA)
 SAC 
 MARGERIT 
 EDP 
+
+http://www.monografias.com/trabajos63/seguridad-informatica-control-interno/seguridad-informatica-control-interno2.shtml
