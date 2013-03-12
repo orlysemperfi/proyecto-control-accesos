@@ -38,3 +38,7 @@ MARGERIT
 EDP 
 
 http://www.monografias.com/trabajos63/seguridad-informatica-control-interno/seguridad-informatica-control-interno2.shtml
+
+http://foro.elhacker.net/seguridad/seguridad_informatica_capitulo_4_segunda_parte_controles_de_acceso-t256755.0.html
+
+http://www.ia.urjc.es/cms/sites/default/files/userfiles/file/SEG-I/2011/control_acceso.pdf
